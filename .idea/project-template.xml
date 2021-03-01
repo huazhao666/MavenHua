@@ -1,0 +1,4 @@
+<template>
+  <input-field default="Tomcat 8.5.57">IJ_APPLICATION_SERVER</input-field>
+  <input-field default="3.1">WEB_XML_VERSION</input-field>
+</template>
